@@ -3,7 +3,8 @@
 
 <!-- **sy0227/sy0227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on SSAFY 5th
+- 🔭 I was part of SSAFY 5th
+- ⚖️ I'm currently working on WooriBank
 - 🌱 I’m currently learning JAVA, Web FE, Web BE
 - 📫 How to reach me: syeonii0227@gmail.com
 
