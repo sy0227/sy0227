@@ -5,8 +5,8 @@
 
 - 🔭 I was part of SSAFY 5th
 - ⚖️ I'm currently working on WooriBank
-- 🌱 I’m currently learning JAVA, Web FE, Web BE, JSP
-- 📫 How to reach me: syeonii0227@gmail.com
+- 🌱 I’m currently learning JSP
+- 📫 How to reach me: syeonii0227@wooribank.com
 
 
 
